@@ -1,15 +1,7 @@
 # 💫 About Me
-👋 Nguyen Minh Hai | Aspiring Backend Developer  
+👋 Nguyen Minh Hai | Backend Developer  
 
 🎓 IT Student @ University of Engineering and Technology | Major: Information and Technology 
-
-💻 Passionate about building web applications, backend systems, and solving real-world problems  
-
-🛠️ Skilled in Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis
-
-⚡ Fun fact: Backend might be invisible, but it makes everything run smoothly!  
-
-📩 Open to internships, collaborations, and tech discussions  
 
 ---
 <!--
@@ -26,7 +18,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
