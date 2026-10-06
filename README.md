@@ -54,9 +54,9 @@
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 ![Minh Hai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhhai205&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
-
+-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhhai205&theme=github_dark_dimmed&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhai205&layout=compact&theme=transparent)
